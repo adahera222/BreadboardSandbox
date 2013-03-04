@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Gates\Gate_NOT.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Gates\Gate_NOT.cs" Line="23" Column="55" />
+      <File FileName="Assets\Scripts\Tools\Linker.cs" Line="60" Column="44" />
+      <File FileName="Assets\Scripts\Pixel_1bit.cs" Line="25" Column="34" />
+      <File FileName="Assets\Scripts\IO Scripts\IO_1bit.cs" Line="43" Column="16" />
+      <File FileName="Assets\Scripts\Pulse_sq.cs" Line="30" Column="4" />
+      <File FileName="Assets\Scripts\Gates\Gate_AND.cs" Line="19" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
